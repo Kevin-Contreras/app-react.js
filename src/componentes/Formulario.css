@@ -1,0 +1,48 @@
+img{
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  opacity: 0.7;
+  position: relative;
+  left: 300px;
+  top: 50px;
+  margin-right:10px;
+  margin-bottom: 40px;
+  
+}
+
+img:hover{
+  height: 110px;
+  width: 110px;
+  border-radius: 100%;
+  
+  opacity: 1;
+  
+}
+
+input{
+  height: 35px;
+  width: 500px;
+  display: block;
+  margin-bottom: 20px;
+  position:relative;
+  top: 30px;
+  left: 450px;
+  border: none;
+  color:white;
+  background: black;
+}
+#y{
+  position:relative;
+  top:50px;
+  left: 560px;
+  font-size: 30px;
+  color:white;
+  font-family: 'Prompt', sans-serif;
+
+}
+#c{
+  position: relative;
+  left: 390px;
+  color:white;
+}
